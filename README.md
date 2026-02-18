@@ -52,8 +52,8 @@
 В этом репозитории собраны мои проекты, которые демонстрируют навыки и подход к тестированию:
 
 *   **[Тестирование интернет-магазина](https://github.com/marisubb/TestingOnlineStore)**
-*   **[Чек-листы для проверки элементов веб-страницы](https://github.com/marisubb/SQL)**
-*   **[SQL-запросы](https://github.com/marisubb/CheckListForWebElements)**
+*   **[Чек-листы для проверки элементов веб-страницы](https://github.com/marisubb/CheckListForWebElements)**
+*   **[SQL-запросы](https://github.com/marisubb/SQL)**
 
 ---
 
